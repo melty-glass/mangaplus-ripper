@@ -13,6 +13,5 @@ A bit of code I wrote to automatically rip images from [Shueisha's MangaPlus ser
 * You need to scroll down and load all pages before using it. I'm still trying to work around this.
 * If you have "Always ask you where to save files" enabled, prepare for a LOT of confirmation dialogue boxes. I'll look into turning them into a .zip file soon.
 * If you want high-quality rips, don't forget to set the image quality on the top right :)
-* It won't work for chapters unavailable on the web version (for currently releasing series, the public ones are only the first and last six chapters), even if you have a link, because it'll lead to a 404 page.
-
-If anyone manages to make a working script for the mobile app(s) please let me know, I'm not a mobile programmer :)
+* It won't work for chapters unavailable on the web version, even if you have a link, because it'll lead to a 404 page. In the case of One Piece for example, only the first and last three chapters are public. The rest are locked behind their free mobile app.
+* If anyone somehow manages to make a working script for the app please let me know, I'm not a mobile programmer :)
