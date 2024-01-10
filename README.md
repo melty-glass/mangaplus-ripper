@@ -4,7 +4,7 @@ A bit of code I wrote to automatically rip images from [Shueisha's MangaPlus ser
 ## Usage:
 
 1. Visit the website linked above and open a chapter you want to save
-2. Paste this in the console and enter
+2. Open Inspect Element (F12 or Ctrl+Shift+I), paste this in the console and enter
 3. ???
 4. Profit
 
