@@ -7,8 +7,6 @@ n = 1;
 for (i of arr) {
     const img = new Image();
     img.src = i.src
-    img.width = i.width;
-    img.height = i.height;
 
     img.onload = () => {
         const canvas = document.createElement('canvas');
